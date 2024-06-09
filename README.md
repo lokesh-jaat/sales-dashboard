@@ -9,7 +9,6 @@ Data Processing
 Data Visualization
 Dashboard creation
 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
-
 Line charts
 Slicer
 Column charts
